@@ -1,0 +1,29 @@
+C:\Users\İSMET\Desktop\EnKısaYolFORM\EnKısaYolFORM\bin\Debug\EnKısaYolFORM.exe
+C:\Users\İSMET\Desktop\EnKısaYolFORM\EnKısaYolFORM\bin\Debug\EnKısaYolFORM.pdb
+C:\Users\İSMET\Desktop\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.Form1.resources
+C:\Users\İSMET\Desktop\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.Properties.Resources.resources
+C:\Users\İSMET\Desktop\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.csproj.GenerateResource.Cache
+C:\Users\İSMET\Desktop\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.exe
+C:\Users\İSMET\Desktop\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.pdb
+C:\Users\İSMET\Desktop\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.Form2.resources
+D:\Kod Dünyam\Program Tasarım\EnKısaYolFORM\EnKısaYolFORM\EnKısaYolFORM\bin\Debug\EnKısaYolFORM.exe
+D:\Kod Dünyam\Program Tasarım\EnKısaYolFORM\EnKısaYolFORM\EnKısaYolFORM\bin\Debug\EnKısaYolFORM.pdb
+D:\Kod Dünyam\Program Tasarım\EnKısaYolFORM\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.csprojAssemblyReference.cache
+D:\Kod Dünyam\Program Tasarım\EnKısaYolFORM\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.Form1.resources
+D:\Kod Dünyam\Program Tasarım\EnKısaYolFORM\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.Form2.resources
+D:\Kod Dünyam\Program Tasarım\EnKısaYolFORM\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.Properties.Resources.resources
+D:\Kod Dünyam\Program Tasarım\EnKısaYolFORM\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.csproj.GenerateResource.cache
+D:\Kod Dünyam\Program Tasarım\EnKısaYolFORM\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.csproj.CoreCompileInputs.cache
+D:\Kod Dünyam\Program Tasarım\EnKısaYolFORM\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.exe
+D:\Kod Dünyam\Program Tasarım\EnKısaYolFORM\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.pdb
+C:\Users\asus\Desktop\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.Anaform.resources
+C:\Users\asus\Desktop\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.Bul.resources
+C:\Users\asus\Desktop\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.Properties.Resources.resources
+C:\Users\asus\Desktop\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.exe
+C:\Users\asus\Desktop\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.pdb
+C:\Users\asus\Desktop\EnKısaYolFORM\EnKısaYolFORM\obj\x86\Debug\EnKısaYolFORM.EnKisayaYolGiris.resources
+C:\Users\asus\Desktop\EnKısaYolFORM\EnKısaYolFORM\bin\Debug\EnKısaYolFORM.exe
+C:\Users\asus\Desktop\EnKısaYolFORM\EnKısaYolFORM\bin\Debug\EnKısaYolFORM.pdb
